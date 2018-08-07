@@ -2,7 +2,7 @@
 if [ "$1" == "darkpink" ]
 then
 	wal -i ~/Downloads/blackroses.jpg
-elif [ "$1"== 'pink' ]
+elif [ "$1"== "pink" ]
 then
 	wal -i ~/Pictures/Wal/wal.png
 elif [ "$1" == "blue" ] 
