@@ -1,0 +1,5 @@
+#!/bin/bash
+
+scrot $1
+curl -F "file=@$1" https://0x0.st
+

@@ -1,0 +1,21 @@
+#!/bin/bash
+if [ "$1" == "darkpink" ]
+then
+	wal -i ~/Downloads/blackroses.jpg
+elif [ "$1"== 'pink' ]
+then
+	wal -i ~/Pictures/Wal/wal.png
+elif [ "$1" == "blue" ] 
+then
+	wal -i ~/Downloads/blueflowers.jpg
+elif [ "$1" == "darkblue" ] 
+then
+	wal -i ~/Downloads/bleuets.jpg
+elif [ "$1" == "beige" ]
+then
+	wal -i ~/Downloads/overwhelming.jpg
+elif [ "$1" == "blood" ]
+then
+	wal -i ~/Downloads/blood.jpg
+fi
+
