@@ -1,9 +1,9 @@
 # misc-scripts
 some scripts i use to make my life easier
 
-#theme
+# theme
 i use this script to change color themes on the go using pywal
 
-#snap
+# snap
 screenshot and uploads to 0x0.st
 
